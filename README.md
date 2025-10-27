@@ -59,5 +59,5 @@ Each page focuses on different aspects:
 
 ---
 ## 👩‍💻 Author
-**Rania Sami Mohamed Elwan**  
+**Rania Elwan**  
 _Data Analyst | Power BI | SQL | Excel_
